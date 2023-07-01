@@ -1,6 +1,6 @@
 ### Hi there welocome to my profile 👋
 
-i'm the ayano i'm a backend devloper i'm a man and i have 15 years 
+i'm ayano a man and i have 15 years, a backend devloper and i work from mobilr
 
 - 👨🏻‍🏭 I'm currently working on oft
 - 📕 I'm currently learning lua, python and C++
