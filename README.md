@@ -10,4 +10,4 @@ i'm ayano a man and i have 15 years, i'm backend devloper and i work from mobile
 
 ![AyanoTheFox GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanoTheFox&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doge2dev&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanoTheFox&theme=synthwave)
