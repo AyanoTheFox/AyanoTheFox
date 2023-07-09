@@ -1,6 +1,6 @@
 ### Hi there everyone is welocome in my profile 👋
 
-i'm ayano a man and i have 15 years, i'm backend devloper and i work from mobile, every trying study about the löve 2d lua and cpp, i finish 0 projects on total and my best work is the octaidrium (in devlopment)
+i'm ayano a man, i have 15 years and i'm backend devloper and i work from mobile for 6 moths and studying about the löve2d engine, lua and cpp languages, i finish 2 projects on total and my best work is the octaidrium (in devlopment), and i make softwares to much peoples
 
 - 👨🏻‍🏭 I'm currently working on octaidrium 
 - 📕 I'm currently learning lua, python and C++
