@@ -1,4 +1,4 @@
-### Hi there everyone is welocome in my profile 👋
+### Hi there everyone is welcome in my profile 👋
 
 i'm ayano a man, i have 15 years and i'm backend devloper and i work from mobile for 6 moths and studying about the löve2d engine, lua and cpp languages, i finish 2 projects on total and my best work is the icosaidrium, and i make softwares to much peoples
 
